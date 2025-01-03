@@ -52,7 +52,7 @@ But don't worry, my code is both clean AND funny!
 
 ---
 
-## Connect with me:
+## 🔗  Connect with me:
 
 <a href="https://linkedin.com/in/dawid-binkowski-webdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dawid-binkowski-webdev" height="30" width="40" /></a>
 
