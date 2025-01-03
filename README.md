@@ -11,11 +11,13 @@ digital experiences.
 - 🌐 Multi-language app wizardry
 - 📱 Responsive designs that look great everywhere
 
+---
+
 ## 🛠 Tech Stack:
 
 ```typescript
 const myStack = {
-  frontend: ['Next.js', 'React', 'TypeScript', 'Tailwind CSS'],
+  frontend: ['Next.js', 'React', 'TypeScript', "JavaScript", 'Tailwind CSS', "Next.js", "HTML", "CSS"],
   backend: ['Node.js', 'Prisma', 'REST APIs'],
   tools: ['Git', 'VS Code', 'Too many Chrome tabs'],
   dailyFuel: ['Coffee', 'Cheesecake', 'Stack Overflow']
@@ -47,6 +49,14 @@ _"Code is like humor - when you have to explain it, it's bad" - Cory House_
 But don't worry, my code is both clean AND funny!
 🎮 When I'm not coding, you'll find me debugging my life or trying to exit Vim.
 💌 Open to exciting opportunities where I can turn more coffee into code!
+
+---
+
+## Connect with me:
+
+<a href="https://linkedin.com/in/dawid-binkowski-webdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dawid-binkowski-webdev" height="30" width="40" /></a>
+
+---
 
 ## 📊 Stats
 
