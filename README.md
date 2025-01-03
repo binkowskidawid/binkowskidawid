@@ -17,7 +17,7 @@ digital experiences.
 
 ```typescript
 const myStack = {
-  frontend: ['Next.js', 'React', 'TypeScript', "JavaScript", 'Tailwind CSS', "Next.js", "HTML", "CSS"],
+  frontend: ['Next.js', 'React', 'TypeScript', "JavaScript", "HTML", "CSS", 'Tailwind CSS', 'SCSS', 'Shadcn/UI'],
   backend: ['Node.js', 'Prisma', 'REST APIs'],
   tools: ['Git', 'WebStorm', 'Too many Chrome tabs'],
   dailyFuel: ['Coffee', 'Cheesecake', 'Stack Overflow']
