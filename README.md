@@ -58,6 +58,13 @@ But don't worry, my code is both clean AND funny!
 
 ---
 
+
+## ☕️  Support:
+
+<p><a href="https://www.buymeacoffee.com/binkowskidawid"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="binkowskidawid" /></a></p><br><br>
+
+---
+
 ## 📊 Stats
 
 ![Dawid's GitHub stats](https://github-readme-stats.vercel.app/api?username=binkowskidawid&show_icons=true&theme=gruvbox)
