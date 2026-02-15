@@ -1,12 +1,13 @@
 # 👋 Hey there, I'm Dawid a Code Craftsman!
 
-🎯 Turning caffeine into code and bugs into features. Currently, wielding Next.js, TypeScript & React to build awesome
-digital experiences.
+🎯 Turning caffeine into code and bugs into features. Currently, wielding Next.js, TypeScript & React to build awesome digital experiences, while expanding horizons into Python & Machine Learning.
 
 ## ⚡ What I Bring to the Table:
 
 - 🔨 Full-stack development with Next.js & React
 - 🎨 UI magic with Tailwind CSS & shadcn/ui
+- 🐍 **Scalable APIs with Python (FastAPI)**
+- 🤖 **Exploring the world of ML & Data Science**
 - 🧩 Clean, type-safe code with TypeScript
 - 🌐 Multi-language app wizardry
 - 📱 Responsive designs that look great everywhere
@@ -17,9 +18,10 @@ digital experiences.
 
 ```typescript
 const myStack = {
-  frontend: ['Next.js', 'React', 'TypeScript', "JavaScript", "HTML", "CSS", 'Tailwind CSS', 'SCSS', 'Shadcn/UI'],
-  backend: ['Node.js', 'Prisma', 'REST APIs'],
-  tools: ['Git', 'WebStorm', 'Too many Chrome tabs'],
+  frontend: ['Next.js', 'React', 'TypeScript', "JavaScript", "HTML", "CSS", 'Tailwind CSS', 'Shadcn/UI'],
+  backend: ['Node.js', 'Python (FastAPI)', 'Prisma', 'REST APIs'],
+  learning: ['Machine Learning Basics', 'Data Analysis'],
+  tools: ['Git', 'WebStorm', 'Cursor AI', 'Claude Code', 'Too many Chrome tabs'],
   dailyFuel: ['Coffee', 'Cheesecake', 'Stack Overflow']
 }
 ```
@@ -32,6 +34,8 @@ const myStack = {
   <img style="width: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript" />
   <img style="width: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML" />
   <img style="width: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS" />
+  <img style="width: 30px;" src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" />
+<img style="width: 30px;" src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" />
   <img style="width: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS" />
   <img style="width: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" />
   <img style="width: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" alt="WebStorm" />
